@@ -1,0 +1,14 @@
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/mentoria-arquitetura.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/mentoria-arquitetura.AssemblyInfoInputs.cache
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/mentoria-arquitetura.AssemblyInfo.cs
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/mentoria-arquitetura.csproj.CoreCompileInputs.cache
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/bin/Debug/net8.0/mentoria-arquitetura
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/bin/Debug/net8.0/mentoria-arquitetura.deps.json
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/bin/Debug/net8.0/mentoria-arquitetura.runtimeconfig.json
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/bin/Debug/net8.0/mentoria-arquitetura.dll
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/bin/Debug/net8.0/mentoria-arquitetura.pdb
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/mentoria-arquitetura.dll
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/refint/mentoria-arquitetura.dll
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/mentoria-arquitetura.pdb
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/mentoria-arquitetura.genruntimeconfig.cache
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/ref/mentoria-arquitetura.dll
