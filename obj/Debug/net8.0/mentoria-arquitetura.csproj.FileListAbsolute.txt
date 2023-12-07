@@ -12,3 +12,4 @@
 /home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/mentoria-arquitetura.pdb
 /home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/mentoria-arquitetura.genruntimeconfig.cache
 /home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/ref/mentoria-arquitetura.dll
+/home/lucascapellini/projetos/pessoal/mentoria-arquitetura/obj/Debug/net8.0/mentoria-arquitetura.sourcelink.json
