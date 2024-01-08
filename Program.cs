@@ -3,13 +3,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        Device smartphone = new Smartphone();
-        Device notebook = new Notebook();
+        Director director = new Director();
 
-        smartphone.createScreen();
-        smartphone.userEvent();
+        WizardBuilder wiBuilder = new WizardBuilder();
+        director.createWizard(wiBuilder);
+        Wizard wizard = wiBuilder.getCharacter();
+        Console.WriteLine("speed {0}, strengh {1}, hability {2}", wizard.speed, wizard.strengh, wizard.magicPowers);
 
-        notebook.createScreen();
-        notebook.userEvent();
+        WarriorBuilder waBuilder = new WarriorBuilder();
+        director.createStrongWarrior(waBuilder);
+        Warrior strongWarrior = waBuilder.getCharacter(); 
+        Console.WriteLine("speed {0}, strengh {1}, hability {2}", strongWarrior.speed, strongWarrior.strengh, strongWarrior.hasWeapons);
+
+        director.createFastWarrior(waBuilder);
+        Warrior fastWarrior = waBuilder.getCharacter();
+        Console.WriteLine("speed {0}, strengh {1}, hability {2}",fastWarrior.speed, fastWarrior.strengh, fastWarrior.hasWeapons);
     }
 }
